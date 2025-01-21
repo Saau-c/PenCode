@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PenCode/static/css/main.43324a24.css",
+    "main.js": "/PenCode/static/js/main.07cca155.js",
+    "index.html": "/PenCode/index.html",
+    "main.43324a24.css.map": "/PenCode/static/css/main.43324a24.css.map",
+    "main.07cca155.js.map": "/PenCode/static/js/main.07cca155.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43324a24.css",
+    "static/js/main.07cca155.js"
+  ]
+}
