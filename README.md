@@ -1,3 +1,6 @@
+#Pencode is a modern React-based web application designed to simplify coding and collaboration. It offers an intuitive interface for writing, managing, and sharing code snippets efficiently, making it ideal for developers and learners alike. Built with a focus on performance and user experience, Pencode combines responsive design with seamless functionality to create a smooth and productive coding environment.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
